@@ -1,7 +1,7 @@
 {
   "name": "dvdfabserveremulator",
-  "version": "1.0.0",
-  "description": "Emulate DVDFab's license server locally.",
+  "version": "1.1.1",
+  "description": "A simple and efficient server emulator for DVDFab products; including DVDFab, StreamFab, MusicFab and more...",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

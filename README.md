@@ -10,8 +10,10 @@ Afterwards, run the runtime script (`start.bat`) and enjoy! You can now install 
 
 Please note that you will need to keep the emulator/proxy running whilst using DVDFab software.
 
+It is recommended to run the clean-up script (`stop.bat`) to disconnect from the local proxy after you're done using it, as it can interfere with other programs.
+
 ## Notes
 
-This project is not affiliated with StreamFab or any other subsidiary of DVDFab and is only intended to allow legitimately licensed users of the DVDFab software suite to use their rightfully purchased software offline without having to connect to an offshore authentication server.
+This project is not affiliated with StreamFab or any other subsidiary of DVDFab, and does not contain any copyrighted work.
 
-It is not intended to promote or encourage piracy of any kind, and should only be used by legitimate owners of DVDFab software.
+This software is only intended to allow legitimately licensed users of the DVDFab software suite to use their rightfully purchased software without having to connect to an external authentication server, it is not intended to promote or encourage piracy of any kind, and should only be used by legitimate owners of DVDFab software.
